@@ -1,0 +1,11 @@
+{
+    "name": "chat-app",
+    "private": true,
+    "workspaces": [
+        "client",
+        "server"
+    ],
+    "dependencies": {
+        "socket.io-client": "^4.8.1"
+    }
+}
